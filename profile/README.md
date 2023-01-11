@@ -34,7 +34,7 @@ is hosted at the
 
 ## Core members
 
-![Dr. Peter Ebert](../img/staff/pebert_cr.jpg)
+![Dr. Peter Ebert](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/pebert_cr.jpg)
 
 **Dr. Peter Ebert**
 
@@ -42,7 +42,7 @@ Core Facility Manager
 
 ---
 
-![sven_berres](../img/staff/sberres_cr.jpg)
+![sven_berres](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/sberres_cr.jpg)
 
 **Sven Berres**
 
@@ -59,7 +59,7 @@ Staff scientist via [ZPM](https://dnpm.de/de/zentren-des-dnpm/zpm-duesseldorf/)
 
 ---
 
-![Dr. Sven Willger](../img/staff/swillger_cr.jpg)
+![Dr. Sven Willger](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/swillger_cr.jpg)
 
 **Dr. Sven Willger**
 
