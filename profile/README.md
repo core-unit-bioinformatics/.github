@@ -51,7 +51,7 @@ Staff scientist
 
 ## Associated members
 
-![Kai Horny](../img/icon_male.png)
+![Kai Horny](https://github.com/core-unit-bioinformatics/.github/raw/main/img/icon_male.png)
 
 **Kai Horny**
 
