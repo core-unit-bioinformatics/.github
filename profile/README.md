@@ -1,8 +1,8 @@
 # Core Unit Bioinformatics
 
 Welcome to the GitHub profile of the Core Unit Bioinformatics (CUBI) of the
-[Medical Faculty](www.medizin.hhu.de/en/) of the
-[Heinrich Heine University](www.hhu.de/en/) Düsseldorf (Germany).
+[Medical Faculty](https://www.medizin.hhu.de/en/) of the
+[Heinrich Heine University](https://www.hhu.de/en/) Düsseldorf (Germany).
 
 # Our mission
 
@@ -26,9 +26,9 @@ core [dash] unit [dash] bioinformatics [at]
 med [dot] uni [dash] duesseldorf [dot] de
 ```
 
-The (German) [institutional website of the CUBI](www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/institut-fuer-medizinische-biometrie-und-bioinformatik/core-unit-bioinformatik)
+The (German) [institutional website of the CUBI](https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/institut-fuer-medizinische-biometrie-und-bioinformatik/core-unit-bioinformatik)
 is hosted at the
-[HHU](www.hhu.de/en/)/[UKD](www.uniklinik-duesseldorf.de).
+[HHU](https://www.hhu.de/en/)/[UKD](https://www.uniklinik-duesseldorf.de).
 
 # Our team
 
@@ -63,4 +63,4 @@ Staff scientist via [ZPM](https://dnpm.de/de/zentren-des-dnpm/zpm-duesseldorf/)
 
 **Dr. Sven Willger**
 
-Staff scientist via [MODS](https://www.mods.hhu.de/en/)
+Staff scientist via [MODS](https://https://www.mods.hhu.de/en/)
