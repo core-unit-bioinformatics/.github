@@ -18,7 +18,7 @@ analysis workflows that are publicly available under a permissive license and de
 # Our references
 
 Please take a look at the
-[list of published research projects supported by the CUBI](../publications/publications.md).
+[list of published research projects supported by the CUBI](/publications/publications.md).
 
 
 # Contact us
