@@ -42,11 +42,13 @@ Core Facility Manager
 
 ---
 
-![sven_berres](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/sberres_cr.jpg)
+![Your picture](https://github.com/core-unit-bioinformatics/.github/raw/main/img/icon_abstract.jpg)
 
-**Sven Berres**
+**Open position!**
 
-Staff scientist
+Vacancy: CUBI staff scientst
+
+[Job ad on LinkedIn](https://www.linkedin.com/jobs/view/3674694028)
 
 
 ## Associated members
@@ -64,3 +66,12 @@ Staff scientist via [ZPM](https://dnpm.de/de/zentren-des-dnpm/zpm-duesseldorf/)
 **Dr. Sven Willger**
 
 Staff scientist via [MODS](https://https://www.mods.hhu.de/en/)
+
+
+# Former members
+
+![sven_berres](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/sberres_cr.jpg)
+
+**Sven Berres**
+
+Staff scientist in 2023
