@@ -15,6 +15,12 @@ analysis workflows that are publicly available under a permissive license and de
 
 (The CUBI service catalog is currently being compiled)
 
+# Our references
+
+Please take a look at the
+[list of published research projects supported by the CUBI](../publications/publications.md).
+
+
 # Contact us
 
 For specific feedback (bug reports, questions or suggestions) to any of our repositories, please open a GitHub issue in the respective repository.
