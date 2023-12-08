@@ -56,16 +56,6 @@ CUBI staff scientst
 
 ---
 
-
-![Your picture](https://github.com/core-unit-bioinformatics/.github/raw/main/img/icon_abstract.jpg)
-
-**Open position!**
-
-Vacancy: CUBI staff scientst
-
-[Job ad on LinkedIn](https://www.linkedin.com/jobs/view/3674694028)
-
-
 ## Associated members
 
 ![Kai Horny](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/khorny_cr.jpg)
