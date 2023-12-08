@@ -48,6 +48,15 @@ Core Facility Manager
 
 ---
 
+![Dr. Mirela Bălan](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/mbalan.png)
+
+**Dr. Mirela Bălan**
+
+CUBI staff scientst
+
+---
+
+
 ![Your picture](https://github.com/core-unit-bioinformatics/.github/raw/main/img/icon_abstract.jpg)
 
 **Open position!**
