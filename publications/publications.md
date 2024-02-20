@@ -4,7 +4,8 @@ Published research projects supported by the CUBI are listed below starting with
 
 ## 2023
 
-[Brandes2023](2023/Brandes2023.hemasphere.bib)
+[BibTeX:Brandes2023](2023/Brandes2023.hemasphere.bib) // [DOI](https://doi.org/10.1097%2FHS9.0000000000000925)
+
 ```
 Danielle Brandes, Layal Yasin, Karin Nebral, Jana Ebler,
 [...], Arndt Borkhardt, Triantafyllia Brozou, Ute Fischer,
