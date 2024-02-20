@@ -46,6 +46,12 @@ is hosted at the
 
 Core Facility Manager
 
+Affiliations:
+1. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
+    * Postal address: Moorenstr. 5, 40225, Düsseldorf, Germany
+2. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
+    * Postal address: Moorenstr. 5, 40225, Düsseldorf, Germany
+
 ---
 
 ![Dr. Mirela Bălan](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/mbalan.png)
@@ -53,6 +59,10 @@ Core Facility Manager
 **Dr. Mirela Bălan**
 
 CUBI staff scientst
+
+Affiliations:
+1. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
+2. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
 
 ---
 
@@ -64,6 +74,12 @@ CUBI staff scientst
 
 Staff scientist via [ZPM](https://dnpm.de/de/zentren-des-dnpm/zpm-duesseldorf/)
 
+Affiliations:
+1. Center for Personalized Medicine Oncology, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
+    * Postal address: Moorenstr. 5, 40225, Düsseldorf, Germany
+2. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
+3. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
+
 ---
 
 ![Dr. Sven Willger](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/swillger_cr.jpg)
@@ -72,6 +88,11 @@ Staff scientist via [ZPM](https://dnpm.de/de/zentren-des-dnpm/zpm-duesseldorf/)
 
 Staff scientist via [MODS](https://https://www.mods.hhu.de/en/)
 
+Affiliations:
+1. Institute for Medical Biometry and Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
+    * Postal address: Moorenstr. 5, 40225, Düsseldorf, Germany
+2. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
+3. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
 
 # Former members
 
