@@ -2,7 +2,7 @@
 
 Welcome to the GitHub profile of the Core Unit Bioinformatics (CUBI) of the
 [Medical Faculty](https://www.medizin.hhu.de/en/) and [University Hospital](https://www.uniklinik-duesseldorf.de/)
-of the [Heinrich Heine University](https://www.hhu.de/en/) Düsseldor (Germany).
+of the [Heinrich Heine University](https://www.hhu.de/en/) Düsseldorf (Germany).
 
 # Our mission
 
