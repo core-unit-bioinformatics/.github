@@ -1,8 +1,8 @@
 # Core Unit Bioinformatics
 
 Welcome to the GitHub profile of the Core Unit Bioinformatics (CUBI) of the
-[Medical Faculty](https://www.medizin.hhu.de/en/) of the
-[Heinrich Heine University](https://www.hhu.de/en/) Düsseldorf (Germany).
+[Medical Faculty](https://www.medizin.hhu.de/en/) and [University Hospital](https://www.uniklinik-duesseldorf.de/)
+of the [Heinrich Heine University](https://www.hhu.de/en/) Düsseldor (Germany).
 
 # Our mission
 
@@ -70,7 +70,7 @@ Affiliations:
 
 ![Kai Horny](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/khorny_cr.jpg)
 
-**Kai Horny**
+**Dr. Kai Horny**
 
 Staff scientist via [ZPM](https://dnpm.de/de/zentren-des-dnpm/zpm-duesseldorf/)
 
@@ -78,7 +78,6 @@ Affiliations:
 1. Center for Personalized Medicine Oncology, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
     * Postal address: Moorenstr. 5, 40225, Düsseldorf, Germany
 2. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
-3. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
 
 ---
 
