@@ -93,9 +93,19 @@ Affiliations:
 2. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
 3. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
 
+
+## Students
+
+![Aliz Fodor](https://github.com/core-unit-bioinformatics/.github/raw/main/img/icon_female.png)
+
+**Aliz Fodor**
+
+Student assistant / codet
+
+
 # Former members
 
-![sven_berres](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/sberres_cr.jpg)
+![sven_berres](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/sberres_cr.gs.jpg)
 
 **Sven Berres**
 
