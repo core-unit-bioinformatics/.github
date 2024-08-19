@@ -96,7 +96,7 @@ Affiliations:
 
 ## Students
 
-![Aliz Fodor](https://github.com/core-unit-bioinformatics/.github/raw/main/img/icon_female.png)
+![Aliz Fodor](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/alizfodor_cr.jpg)
 
 **Aliz Fodor**
 
