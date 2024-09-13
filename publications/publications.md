@@ -1,6 +1,16 @@
 # Our references
 
-Published research projects supported by the CUBI are listed below starting with the most recent publication.
+Published research projects supported by the CUBI members are listed below starting with the most recent publication.
+
+## 2024
+
+[BixTeX:Menzel2024](2024/Menzel2024.wespilot.bib) // [DOI](https://doi.org/10.1016/j.ejca.2024.114306)
+
+```
+Michael Menzel, [...], Kai Horny, [...], Jan Budczies, Albrecht Stenzinger
+"Benchmarking Whole Exome Sequencing in the German Network for Personalized Medicine"
+European Journal of Cancer 2024  
+```
 
 ## 2023
 
@@ -10,8 +20,8 @@ Published research projects supported by the CUBI are listed below starting with
 Danielle Brandes, Layal Yasin, Karin Nebral, Jana Ebler,
 [...], Arndt Borkhardt, Triantafyllia Brozou, Ute Fischer,
 Rabea Wagener
-“Optical Genome Mapping Identifies Novel Recurrent Structural Alterations in
-Childhood ETV6::RUNX1+ and High Hyperdiploid Acute Lymphoblastic Leukemia.”
+Optical Genome Mapping Identifies Novel Recurrent Structural Alterations in
+Childhood ETV6::RUNX1+ and High Hyperdiploid Acute Lymphoblastic Leukemia.
 Hemasphere 2023 Jul 17;7(8):e925
 ```
 
