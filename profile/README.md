@@ -66,6 +66,13 @@ Affiliations:
 
 ---
 
+![VACANCY](https://github.com/core-unit-bioinformatics/.github/raw/main/img/icon_female.png)
+
+**Position vacant**
+
+CUBI staff scientst
+
+
 ## Associated members
 
 ![Kai Horny](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/khorny_cr.jpg)
@@ -79,20 +86,6 @@ Affiliations:
     * Postal address: Moorenstr. 5, 40225, Düsseldorf, Germany
 2. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
 
----
-
-![Dr. Sven Willger](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/swillger_cr.jpg)
-
-**Dr. Sven Willger**
-
-Staff scientist via [MODS](https://https://www.mods.hhu.de/en/)
-
-Affiliations:
-1. Institute for Medical Biometry and Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
-    * Postal address: Moorenstr. 5, 40225, Düsseldorf, Germany
-2. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
-3. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
-
 
 ## Students
 
@@ -103,9 +96,17 @@ Affiliations:
 Student assistant / codet
 
 
-# Former members
+# Former members / alumni
 
-![sven_berres](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/sberres_cr.gs.jpg)
+![sven_berres](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/swillger_cr.bw.jpg)
+
+**Sven Willger**
+
+Staff scientist from 2022 to 2025 via [MODS](https://https://www.mods.hhu.de/en/)
+
+---
+
+![sven_berres](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/sberres_cr.bw.jpg)
 
 **Sven Berres**
 
