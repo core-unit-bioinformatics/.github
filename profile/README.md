@@ -102,7 +102,7 @@ Student assistant / codet
 
 **Sven Willger**
 
-Staff scientist from 2022 to 2025 via [MODS](https://https://www.mods.hhu.de/en/)
+Associated staff scientist from 2022 to 2025 via [MODS](https://https://www.mods.hhu.de/en/)
 
 ---
 
