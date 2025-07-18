@@ -48,9 +48,10 @@ Core Facility Manager
 
 Affiliations:
 1. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
-    * Postal address: Moorenstr. 5, 40225, Düsseldorf, Germany
+    * Postal address: Henkelstr. 230, 40599, Düsseldorf, Germany
+    * HHU/UKD P.O. box: 1225
 2. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
-    * Postal address: Moorenstr. 5, 40225, Düsseldorf, Germany
+    * Postal address: Henkelstr. 230, 40599, Düsseldorf, Germany
 
 ---
 
@@ -85,6 +86,7 @@ Affiliations:
 1. Center for Personalized Medicine Oncology, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
     * Postal address: Moorenstr. 5, 40225, Düsseldorf, Germany
 2. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
+3. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
 
 
 ## Students
