@@ -67,6 +67,20 @@ Affiliations:
 
 ---
 
+![Dr. Sebastian Alexander Fuchs](https://github.com/core-unit-bioinformatics/.github/blob/main/img/staff/sfuchs_cr.jpg)
+
+**Dr. Sebastian Alexander Fuchs**
+
+CUBI staff scientst
+
+Affiliations:
+1. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
+    * Postal address: Henkelstr. 230, 40599, Düsseldorf, Germany
+2. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
+    * Postal address: Henkelstr. 230, 40599, Düsseldorf, Germany
+
+---
+
 ![VACANCY](https://github.com/core-unit-bioinformatics/.github/raw/main/img/icon_female.png)
 
 **Position vacant**
