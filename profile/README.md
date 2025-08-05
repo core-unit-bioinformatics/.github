@@ -59,7 +59,7 @@ Affiliations:
 
 **Dr. Mirela Bălan**
 
-CUBI staff scientst
+CUBI staff scientist
 
 Affiliations:
 1. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
@@ -71,7 +71,7 @@ Affiliations:
 
 **Dr. Sebastian Alexander Fuchs**
 
-CUBI staff scientst
+CUBI staff scientist
 
 Affiliations:
 1. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
@@ -85,7 +85,7 @@ Affiliations:
 
 **Position vacant**
 
-CUBI staff scientst
+CUBI staff scientist
 
 
 ## Associated members
