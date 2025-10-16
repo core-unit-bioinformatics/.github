@@ -55,7 +55,7 @@ Affiliations:
 
 ---
 
-![Dr. Mirela Bălan](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/mbalan.png)
+
 
 **Dr. Mirela Bălan**
 
@@ -113,6 +113,13 @@ Student assistant / codet
 
 
 # Former members / alumni
+
+![mirela_balan](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/mbalan.bw.png)
+
+**Mirela Balan**
+
+Staff scientist from 2023 to 2025
+
 
 ![sven_berres](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/swillger_cr.bw.jpg)
 
