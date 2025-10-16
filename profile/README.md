@@ -55,18 +55,6 @@ Affiliations:
 
 ---
 
-
-
-**Dr. Mirela Bălan**
-
-CUBI staff scientist
-
-Affiliations:
-1. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
-2. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
-
----
-
 ![Dr. Sebastian Alexander Fuchs](https://github.com/core-unit-bioinformatics/.github/blob/main/img/staff/sfuchs_cr.jpg)
 
 **Dr. Sebastian Alexander Fuchs**
@@ -120,6 +108,7 @@ Student assistant / codet
 
 Staff scientist from 2023 to 2025
 
+---
 
 ![sven_berres](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/swillger_cr.bw.jpg)
 
