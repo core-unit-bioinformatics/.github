@@ -69,7 +69,7 @@ Affiliations:
 
 ---
 
-![VACANCY](https://github.com/core-unit-bioinformatics/.github/blob/main/img/staff/syedhaider.jpeg)
+![VACANCY](https://github.com/core-unit-bioinformatics/.github/blob/main/img/staff/Syed_haider.jpeg)
 
 **Dr. Syed M. I. Haider**
 
