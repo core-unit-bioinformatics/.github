@@ -69,11 +69,17 @@ Affiliations:
 
 ---
 
-![VACANCY](https://github.com/core-unit-bioinformatics/.github/raw/main/img/icon_female.png)
+![VACANCY](https://github.com/core-unit-bioinformatics/.github/blob/main/img/staff/syedhaider.jpeg)
 
-**Position vacant**
+**Dr. Syed M. I. Haider**
 
 CUBI staff scientist
+
+Affiliations:
+1. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
+    * Postal address: Henkelstr. 230, 40599, Düsseldorf, Germany
+2. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
+    * Postal address: Henkelstr. 230, 40599, Düsseldorf, Germany
 
 
 ## Associated members
