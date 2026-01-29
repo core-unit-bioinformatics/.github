@@ -3,6 +3,7 @@
 Welcome to the GitHub profile of the Core Unit Bioinformatics (CUBI) of the
 [Medical Faculty](https://www.medizin.hhu.de/en/) and [University Hospital](https://www.uniklinik-duesseldorf.de/)
 of the [Heinrich Heine University](https://www.hhu.de/en/) Düsseldorf (Germany).
+Our offices are located in the [Center for Digital Medicine](https://www.zdm.hhu.de) of the HHU.
 
 # Our mission
 
@@ -63,28 +64,24 @@ CUBI staff scientist
 
 Affiliations:
 1. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
-    * Postal address: Henkelstr. 230, 40599, Düsseldorf, Germany
 2. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
-    * Postal address: Henkelstr. 230, 40599, Düsseldorf, Germany
 
 ---
 
-![VACANCY](https://github.com/core-unit-bioinformatics/.github/blob/main/img/staff/syedhaider_cr.png)
+![Dr. Ijlal Syed](https://github.com/core-unit-bioinformatics/.github/blob/main/img/staff/syedhaider_cr.png)
 
-**Dr. Syed M. I. Haider**
+**Dr. Ijlal M. H. Syed**
 
 CUBI staff scientist
 
 Affiliations:
 1. Core Unit Bioinformatics, Medical Faculty and University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Germany
-    * Postal address: Henkelstr. 230, 40599, Düsseldorf, Germany
 2. Center for Digital Medicine, Heinrich Heine University Düsseldorf, Germany
-    * Postal address: Henkelstr. 230, 40599, Düsseldorf, Germany
 
 
 ## Associated members
 
-![Kai Horny](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/khorny_cr.jpg)
+![Dr. Kai Horny](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/khorny_cr.jpg)
 
 **Dr. Kai Horny**
 
@@ -99,14 +96,19 @@ Affiliations:
 
 ## Students
 
-![Aliz Fodor](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/alizfodor_cr.jpg)
+
+We are looking for student assistants with experience in Python programming!
+
+
+# Former members / alumni
+
+![aliz_fodor](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/alizfodor_cr.bw.jpg)
 
 **Aliz Fodor**
 
 Student assistant / codet
 
-
-# Former members / alumni
+---
 
 ![mirela_balan](https://github.com/core-unit-bioinformatics/.github/raw/main/img/staff/mbalan.bw.png)
 
